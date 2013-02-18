@@ -1,0 +1,5 @@
+hostname: <host ip>
+database: <mysql database>
+hostport: <mysql port>
+username: <mysql username>
+password: <mysql password>
